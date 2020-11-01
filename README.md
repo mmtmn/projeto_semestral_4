@@ -32,17 +32,17 @@ ATIVIDADES PRÁTICAS SUPERVISIONADAS (APS)
 
 6) O  grupo  deverá  escrever  uma  monografia  sobre  os  aspectos  teóricos  que envolvem  o  projeto,  bem  como  sobre  todos  os  assuntos  relativos  ao desenvolvimento   do   sistema   computacional.   A   estrutura   básica   da monografia é apresentada abaixo:
 
-  * a) Introdução–deve conter uma breve descrição a respeito dos padrões (MVC  e  DAO),  bibliotecas  (ex.  Swing,  JDBC)  e  ferramentas  (ex. Hibernate) usados;
+    * a) Introdução–deve conter uma breve descrição a respeito dos padrões (MVC  e  DAO),  bibliotecas  (ex.  Swing,  JDBC)  e  ferramentas  (ex. Hibernate) usados;
 
-  * b) Referencial  Teórico–deve  apresentar  (e  explicar)  os  algoritmos  e classes   usadas   no   processamento   de   dados.   As   referências bibliográficas utilizadas nessa seção serão avaliadas e terão impacto na nota final do trabalho;
+    * b) Referencial  Teórico–deve  apresentar  (e  explicar)  os  algoritmos  e classes   usadas   no   processamento   de   dados.   As   referências bibliográficas utilizadas nessa seção serão avaliadas e terão impacto na nota final do trabalho;
 
-  * c) Desenvolvimento–deve  descrevertodos  os  estágios  do  processo de   desenvolvimento   do   sistema   computacional.   Deverão   ser abordados  os  seguintes  tópicos:  Processo  de  acesso  aos  dados; processo de visualização dos dados.
+    * c) Desenvolvimento–deve  descrevertodos  os  estágios  do  processo de   desenvolvimento   do   sistema   computacional.   Deverão   ser abordados  os  seguintes  tópicos:  Processo  de  acesso  aos  dados; processo de visualização dos dados.
 
-  * d) Resultados e Discussão–deve apresentar um conjunto de testes envolvendo as técnicas implementadas. Nestes testes o grupo deverá demonstrar a imagens do programa funcionando. É fundamental que a estrutura do programa seja apresentada em forma de diagrama de identificar  as  vantagens  e  desvantagens  de  cada  padrão  de  projeto usado;
+    * d) Resultados e Discussão–deve apresentar um conjunto de testes envolvendo as técnicas implementadas. Nestes testes o grupo deverá demonstrar a imagens do programa funcionando. É fundamental que a estrutura do programa seja apresentada em forma de diagrama de identificar  as  vantagens  e  desvantagens  de  cada  padrão  de  projeto usado;
 
-  * e) Considerações Finais–deve apresentar as considerações do grupo a  respeito  das  técnicas  escolhidas,  bem  como  sobre  os  resultados obtidos;
+    * e) Considerações Finais–deve apresentar as considerações do grupo a  respeito  das  técnicas  escolhidas,  bem  como  sobre  os  resultados obtidos;
 
-  * f) Referências  Bibliográficas–deve  conter  todas  as  referências utilizadas para escrita e desenvolvimento do projeto;g)Código  Fonte–deve  apresentar  todo  o  código  fonte  do  projeto desenvolvido;
+    * f) Referências  Bibliográficas–deve  conter  todas  as  referências utilizadas para escrita e desenvolvimento do projeto;g)Código  Fonte–deve  apresentar  todo  o  código  fonte  do  projeto desenvolvido;
 
 7) O nível de refinamento, tratamento de erros, assim como a complexidade das técnicas de  ordenação  escolhidas,  terão  impacto direto na nota  final  deste trabalho. Novas funcionalidades poderão ser implementadas neste sistema, desde que relacionadas ao tema abordado.
 
