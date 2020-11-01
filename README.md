@@ -1,9 +1,17 @@
 # livraria-amazonia
 Trabalho semestral: O  grupo  deverá  desenvolver  um  sistema  para  gerenciamento  da  livraria “Amazônia”, responsável por divulgar artigoscientíficos e livros relacionados à ciência e ao meio ambiente.
 
-ATIVIDADES PRÁTICAS SUPERVISIONADAS (APS)I. TEMA: “DESENVOLVIMENTO DE SISTEMA PARA MANIPULAÇÃO DE BIBLIOTECA”II. PROPOSTA DO TRABALHOAs Atividades Práticas
+ATIVIDADES PRÁTICAS SUPERVISIONADAS (APS)
 
-Supervisionadas serão constituídas pelos seguintes tópicos:1)O  grupo  deverá  desenvolver  um  sistema  para  gerenciamento  da  livraria “Amazônia”, responsável por divulgar artigoscientíficos e livros relacionados à ciência e ao meio ambiente.2)O  grupo  deverá  usar  a  linguagem  Java  e  o  banco  de  dados  PostgreSQL. Para  fazer  a  interface  deve  ser  usado  o  padrão  MVC  com  as  bibliotecas “AWT” e SWING. Para fazer a conexão com o banco de dados  deve  ser usado o padrão DAO com a biblioteca JDBC.
+I. TEMA: “DESENVOLVIMENTO DE SISTEMA PARA MANIPULAÇÃO DE BIBLIOTECA”
+
+II. PROPOSTA DO TRABALHOAs Atividades Práticas
+
+Supervisionadas serão constituídas pelos seguintes tópicos:
+
+1)O  grupo  deverá  desenvolver  um  sistema  para  gerenciamento  da  livraria “Amazônia”, responsável por divulgar artigoscientíficos e livros relacionados à ciência e ao meio ambiente.
+
+2)O  grupo  deverá  usar  a  linguagem  Java  e  o  banco  de  dados  PostgreSQL. Para  fazer  a  interface  deve  ser  usado  o  padrão  MVC  com  as  bibliotecas “AWT” e SWING. Para fazer a conexão com o banco de dados  deve  ser usado o padrão DAO com a biblioteca JDBC.
 
 ATIVIDADES PRÁTICAS SUPERVISIONADAS (APS)
 
